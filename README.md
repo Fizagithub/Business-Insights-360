@@ -1,18 +1,18 @@
-**Project- Business-Insights-360**
+# **Project- Business-Insights-360**
 
-**SQL Data Exploration & Power BI Dashboard.**
+# **SQL Data Exploration & Power BI Dashboard.**
 
 **Link to my Dashboard**
 
 🔷Power BI Service -https://app.powerbi.com/view?r=eyJrIjoiYTNhMDlmMDgtNzE5ZC00YjQ5LWE3ZWMtYWJhY2RjOTFlODk0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-**Overview:**
+# **Overview:**
 
 _Project: Provide Insights on Finance,sales,Marketing,Supply Chain to the Management. Domain: Manufacturing Domain_
 
 _AtliQ Hardware is a company that Sells and Manufactures Hardware.They have Customers all over the world and Products under various categories. AtliQ Team use MS excel for data analysis but as the business expands globally company's Top management decides to use Power BI for data analytics. So Top management wanted the analytics team to Provide insights through SQl to make decisions and as later part of the Project a dashboard to be created for various key departments, so they can get insights on important metrics and make data driven Decisions._
 
-**Task:**
+# **Task:**
 
 _As an data analyst who has been provided with sample data and a mock-up dashboard to work on the following task._
 
@@ -22,15 +22,15 @@ _As an data analyst who has been provided with sample data and a mock-up dashboa
 
 * Create an fully functional Dashbord for Data Driven Decisiosn, which gives insights on various departments like Finance, sales, marketing, Supply chain.*
 
-**Tech stack used in the project:**
+# **Tech stack used in the project:**
 
 * MySQL*
 * MS Excel*
 * Power BI*
 
-**Work Flow:**
+# **Work Flow:**
 
-**SQL Workbench**
+# **SQL Workbench**
 
 * Data was Loading into Mysql and database was designed by establishing relationships in a Snowflake schema format between the tables with ERD in MySQL.*
   
@@ -42,7 +42,7 @@ _As an data analyst who has been provided with sample data and a mock-up dashboa
   
 * Reports were generated for **Profit and loss Metrics**, **Deriving Top Metrics**, and **Procedures to track Forecast Accuracy for Supply Chain Department.**
 
-**PowerBI Dashboard**
+# **PowerBI Dashboard**
 
 * Connected Power BI to MySQL and Excel, transformed data by establishing a data pipeline (ETL) using Power Query, Data Modelling to establish relations by snowflake schema and initial Data validation was done against benchmark values.*
   
@@ -110,7 +110,7 @@ Report Page for the Top Level Management of the Company who want to check on all
   
 * Key Insights by Sub Zone with Revenue Contribution % analysis*
 
-**Key Learnings.**
+# **Key Learnings.**
 
 * The most helpful measures for senior management are the Gross Margin and Net Profit (Gross Margin - Operational Costs).
 
